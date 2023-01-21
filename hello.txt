@@ -1,12 +1,12 @@
 hello vimGit 
 hello vimGit 
+<<<<<<< HEAD
 hello vimGit 3333
 hello vimGit 2222222 
+=======
+hello vimGit hot-fix  
 hello vimGit 
 hello vimGit 
+>>>>>>> hot-fix
 hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
+hello vim
