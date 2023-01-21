@@ -1,12 +1,9 @@
 hello vimGit 
 hello vimGit 
+hello vimGit hot-fix 
 hello vimGit 
 hello vimGit 
 hello vimGit 
 hello vimGit 
 hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
-hello vimGit 
+hello vim
